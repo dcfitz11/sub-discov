@@ -11,4 +11,4 @@ A **Kali Linux** program for subdomain discovery.
 
 # RUNNING THE PROGRAM
 ## To run the program:
-`python3 xss-paramfuzz.py`
+`python3 sub-discov.py`

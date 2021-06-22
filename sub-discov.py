@@ -89,6 +89,7 @@ class SubFuzz:
         print("\n{0}[+] Results:".format(yellow))
         for line in self.good_subs:
             print(line)
+        exit()
 
 
 #  SUB-DOMAIN DISCOVERY TASKS
