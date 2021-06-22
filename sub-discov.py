@@ -67,7 +67,6 @@ class SubFuzz:
         self.brute()
 
     def brute(self):
-        http_codes = [200]
         print("\n{0}[+] Subdomain Discovery:".format(yellow))
         for line in self.sub_domains_list:
             link = "https://" + line
